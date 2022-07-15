@@ -1,2 +1,1 @@
-Ol√° este arquivo foi gerado pelo pr√≥prio Jupyter Notebook.
-Podemos gerar quantas linhas quisermos e o Jupyter gera o arquivo final.
+Cientistas de dados s„o muito importantes para o desenvolvimento de software. Mas como eles s„o muito importantes, eles precisam ser muito bem treinados. Para isso, eles precisam saber como lidar com arquivos txt. 
