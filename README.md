@@ -1,2 +1,2 @@
-# data-analysis-python
-data-analysis-python
+# python-data-analysis-fundamentals
+
